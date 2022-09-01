@@ -32,3 +32,5 @@ In this way, those who will be identified as subjects at risk will have the oppo
 an empowerment program and simultaneously will be monitored in order to observe their graphic 
 abilities’ evolution, even at distance of years, with the aim of confirm the predictions.
 
+---
+Contributors: Giulia Peteani, Gloria Rizzato, Francesca Ronchetti, Niccolò Redaelli 
