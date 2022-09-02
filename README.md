@@ -35,3 +35,7 @@ abilities’ evolution, even at distance of years, with the aim of confirm the p
 ---
 Contributors: Giulia Peteani, Gloria Rizzato, Francesca Ronchetti, Niccolò Redaelli 
 Supervisor: Linda Greta Dui
+
+---
+The project has been done in collaboration with NearLab (Polytechnic of Milan) and University of
+Insubria (Varese).
